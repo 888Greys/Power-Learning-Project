@@ -7,10 +7,16 @@
 # Save and run the program to see the output.
 
 
-name = input("Enter your name: ")
+# name = input("Enter your name: ")
 
-age = input("Enter your age: ")
+# age = input("Enter your age: ")
 
-location = input("Where are you currently now: ")
+# location = input("Where are you currently now: ")
 
-print(f"Hello {name} 😊, you are {age} and you are from {location}")
+# print(f"Hello {name} 😊, you are {age} and you are from {location}")
+
+x = 10
+
+# y = str(x)
+
+print(type(x))
